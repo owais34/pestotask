@@ -4,3 +4,18 @@ Assignment Title: Full-Stack Developer Challenge  Introduction: You are tasked w
 
 # Backend Task-API documentation
 view it here [https://documenter.getpostman.com/view/12173131/2sA2xh2YEb]
+
+# Setting up postgres db
+![pestodb](https://github.com/owais34/pestotask/assets/37238759/d3967de6-40d0-441e-b7ea-06f11f79f5d4)
+
+# Running the Node+Express Server
+cd into task-app-backend and run
+`
+npm run serve
+`
+
+# Running the client app
+cd into task-app-client and run
+`
+npm run start
+`
