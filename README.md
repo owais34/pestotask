@@ -10,14 +10,18 @@ view it here [https://documenter.getpostman.com/view/12173131/2sA2xh2YEb]
 
 # Running the Node+Express Server
 cd into task-app-backend and run
-`
+```
 npm install
+```
+```
 npm run serve
-`
+```
 
 # Running the client app
 cd into task-app-client and run
-`
-npm install
+```
+npm install 
+```
+```
 npm run start
-`
+```
